@@ -1,24 +1,56 @@
-# README
+Ruby on Rails / Advanced exercice / Heroku deployment
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Objective :
 
-Things you may want to cover:
+1. Redo the EventBrite site using the gem Devise for logins (enable to manage cookies and logs easily)
+2. Add a stripe payment method while participating an event
 
-* Ruby version
+Description : 
 
-* System dependencies
+Event Brite is a website where you can create and participate events
 
-* Configuration
+Heroku application : https://morning-headland-53327.herokuapp.com/
 
-* Database creation
+Follow me on Github : https://github.com/kevinmainaud
 
-* Database initialization
 
-* How to run the test suite
+______________________
 
-* Services (job queues, cache servers, search engines, etc.)
+Additionals notes
 
-* Deployment instructions
+When you cloned the repository, please do :
 
-* ...
+$bundle install & bundle update
+
+Versions used : Ruby Version : 2.3.4 Rails Version : 5.2.0
+
+How to see the application ?
+
+When you are on the folder, you can go to the local server by doing :
+
+$rails s
+
+After that, go to your browser and type :
+
+$http://localhost:3000/
+
+
+
+_________
+
+Made with :
+
+Our great THP team
+A chicken salad, a Starbucks opened during holiday days, a lot of coffees
+
+________
+Apps & More : 
+
+Visual Studio Code
+GitHub
+Heroku
+For further infos about Rails : Guide http://guides.rubyonrails.org/getting_started.html
+
+Forms http://guides.rubyonrails.org/form_helpers.html
+
+From KM with love
