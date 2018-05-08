@@ -9,7 +9,7 @@ Description :
 
 Event Brite is a website where you can create and participate events
 
-Heroku application : https://morning-headland-53327.herokuapp.com/
+Heroku application : https://radiant-sea-84935.herokuapp.com/
 
 Follow me on Github : https://github.com/kevinmainaud
 
